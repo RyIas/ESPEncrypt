@@ -16,7 +16,7 @@ Uses either a LoRa UART module (highly recommended for useable distance) or the 
 - DX-LR32 UART Transceiver (other UART Transceivers might work as long as AT settings are changed in the .ino file).
 
 **Extra for LoRa battery use:**
-- 3D STL file provided in [add later]
+- 3D STL file provided in [enclosure folder](3d models/).
 - Battery no bigger than 50mm x 34mm x 9mm
 - a "Type-C USB 5V 2A Boost Converter Step-Up Power Module"
 
