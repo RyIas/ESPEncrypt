@@ -16,11 +16,11 @@ Uses either a LoRa UART module (highly recommended for useable distance) or the 
 - DX-LR32 UART Transceiver (other UART Transceivers might work as long as AT settings are changed in the .ino file).
 
 **Extra for LoRa battery use:**
-- 3D STL file provided in [enclosure folder](3d models/).
+- [3D STL files](3Dmodels/)
 - Battery no bigger than 50mm x 34mm x 9mm
 - a "Type-C USB 5V 2A Boost Converter Step-Up Power Module"
 
-Refer to images folder for reference of parts and assembly.
+Refer to [3D STL files](3Dmodels/) folder for reference of parts and assembly.
 
 ### Installation guide
 WiFi edition: Download and upload through Arduino IDE.
