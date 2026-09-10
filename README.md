@@ -19,6 +19,7 @@ Uses either a LoRa UART module (highly recommended for useable distance) or the 
 - [3D STL files](3Dmodels/)
 - Battery no bigger than 50mm x 34mm x 9mm
 - a "Type-C USB 5V 2A Boost Converter Step-Up Power Module"
+- a switch
 
 Refer to [3D STL files](3Dmodels/) folder for reference of parts and assembly.
 
